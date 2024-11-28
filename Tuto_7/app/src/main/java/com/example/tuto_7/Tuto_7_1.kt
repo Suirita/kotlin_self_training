@@ -1,3 +1,5 @@
+package com.example.tuto_7
+
 enum class Difficulty {
     EASY, MEDIUM, HARD
 }

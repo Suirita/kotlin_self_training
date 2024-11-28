@@ -1,3 +1,5 @@
+package com.example.tuto_7
+
 val solarSystem = mutableMapOf(
   "Mercury" to 0,
   "Venus" to 0,
